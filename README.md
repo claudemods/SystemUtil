@@ -26,7 +26,8 @@
 
 
 <p align="left">
-    <img src="https://i.postimg.cc/mZ66nBHS/script.png" style="width:50%; height:auto;" />
+![Screenshot_20250620_223414](https://github.com/user-attachments/assets/f6a7f404-7e1f-4f2e-a433-6262d706d714)
+
 </p>
 
 
