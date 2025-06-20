@@ -29,7 +29,4 @@
     <img src="https://i.postimg.cc/mZ66nBHS/script.png" style="width:50%; height:auto;" />
 </p>
 
-## Donations and Contacts
-PayPal: https://www.paypal.com/donate/?cmd=_donations&business=YYGU9JWJEE2AG
 
-Email: michaelsebero@disroot.org
